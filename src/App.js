@@ -1,8 +1,8 @@
 import React from "react";
-import Card from "./components/Card";
+import OmdbContainer from "./components/OmdbContainer";
 
 function App() {
-  return <Card />;
+  return <OmdbContainer />;
 }
 
 export default App;
